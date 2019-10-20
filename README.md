@@ -1,2 +1,2 @@
-# Ggg C coding
+# C coding
 oklid bolme algoritm c coding
