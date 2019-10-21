@@ -1,2 +1,2 @@
 # C coding
-oklid bolme algoritm c coding
+algoritm c coding
