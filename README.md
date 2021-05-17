@@ -1,2 +1,2 @@
 # C coding
-algoritm c coding
+c code
