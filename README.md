@@ -1,2 +1,2 @@
 # C coding
-c code
+Algorithms and my studies on c language
