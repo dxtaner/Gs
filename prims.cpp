@@ -77,7 +77,7 @@ int kisayol(int key[], bool ziyaret[])
         if(ziyaret[i]==false && key[i]<min)
         {
             minIndex=i;
-			min=key[i];    
+	    min=key[i];    
         }
     }
     return minIndex;
