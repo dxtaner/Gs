@@ -12,4 +12,4 @@
 
 ## Big-O 
 
---O(n logn)
+O(n logn)
