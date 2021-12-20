@@ -17,5 +17,5 @@ O(n^2)
 
 Average Case : 16,18 Worst Case : 27  Best Case : 2
 
-## [7,3,5,8,2,9,4,15,6]
+## [7,3,5,8,2,9,4,15,6] -> Insertion Sort 
 
