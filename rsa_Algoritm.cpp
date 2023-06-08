@@ -22,7 +22,7 @@ int main(){
 	scanf("%d",&q);
 	
 	if(asalmi(q)==0 || q==p){
-		printf("sayiniz asl deðil ve ya p degeri ile ayni ");
+		printf("sayiniz asl deÃ°il ve ya p degeri ile ayni ");
 		exit(1);	
 	}
 	
@@ -45,12 +45,12 @@ int main(){
  
     printf("Message data = %lf", msg);
  
-    //Þifreleme
+    //Ãžifreleme
     double c = pow(msg, e);
     c = fmod(c, n);
     printf("\nEncrypted data = %lf", c);
  
-    // Deþifreleme  
+    // DeÃ¾ifreleme  
     m = bul(m, n);
     printf("\nOriginal Message Sent = %lf", m);		
 	
