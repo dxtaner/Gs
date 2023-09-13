@@ -1,0 +1,15 @@
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\bin\Debug\net6.0\ArrList-Three-App.exe
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\bin\Debug\net6.0\ArrList-Three-App.deps.json
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\bin\Debug\net6.0\ArrList-Three-App.runtimeconfig.json
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\bin\Debug\net6.0\ArrList-Three-App.dll
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\bin\Debug\net6.0\ArrList-Three-App.pdb
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\obj\Debug\net6.0\ArrList-Three-App.csproj.AssemblyReference.cache
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\obj\Debug\net6.0\ArrList-Three-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\obj\Debug\net6.0\ArrList-Three-App.AssemblyInfoInputs.cache
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\obj\Debug\net6.0\ArrList-Three-App.AssemblyInfo.cs
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\obj\Debug\net6.0\ArrList-Three-App.csproj.CoreCompileInputs.cache
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\obj\Debug\net6.0\ArrList-Three-App.dll
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\obj\Debug\net6.0\refint\ArrList-Three-App.dll
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\obj\Debug\net6.0\ArrList-Three-App.pdb
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\obj\Debug\net6.0\ArrList-Three-App.genruntimeconfig.cache
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Three-App\obj\Debug\net6.0\ref\ArrList-Three-App.dll
