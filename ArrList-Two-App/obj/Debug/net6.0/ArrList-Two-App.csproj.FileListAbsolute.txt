@@ -1,0 +1,15 @@
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\bin\Debug\net6.0\ArrList-Two-App.exe
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\bin\Debug\net6.0\ArrList-Two-App.deps.json
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\bin\Debug\net6.0\ArrList-Two-App.runtimeconfig.json
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\bin\Debug\net6.0\ArrList-Two-App.dll
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\bin\Debug\net6.0\ArrList-Two-App.pdb
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\obj\Debug\net6.0\ArrList-Two-App.csproj.AssemblyReference.cache
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\obj\Debug\net6.0\ArrList-Two-App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\obj\Debug\net6.0\ArrList-Two-App.AssemblyInfoInputs.cache
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\obj\Debug\net6.0\ArrList-Two-App.AssemblyInfo.cs
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\obj\Debug\net6.0\ArrList-Two-App.csproj.CoreCompileInputs.cache
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\obj\Debug\net6.0\ArrList-Two-App.dll
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\obj\Debug\net6.0\refint\ArrList-Two-App.dll
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\obj\Debug\net6.0\ArrList-Two-App.pdb
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\obj\Debug\net6.0\ArrList-Two-App.genruntimeconfig.cache
+C:\Users\Taner\Desktop\yazilim\example\C#\ArrList-Two-App\obj\Debug\net6.0\ref\ArrList-Two-App.dll
