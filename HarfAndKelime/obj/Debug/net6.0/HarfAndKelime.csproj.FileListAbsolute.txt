@@ -1,0 +1,15 @@
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\bin\Debug\net6.0\HarfAndKelime.exe
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\bin\Debug\net6.0\HarfAndKelime.deps.json
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\bin\Debug\net6.0\HarfAndKelime.runtimeconfig.json
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\bin\Debug\net6.0\HarfAndKelime.dll
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\bin\Debug\net6.0\HarfAndKelime.pdb
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\obj\Debug\net6.0\HarfAndKelime.csproj.AssemblyReference.cache
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\obj\Debug\net6.0\HarfAndKelime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\obj\Debug\net6.0\HarfAndKelime.AssemblyInfoInputs.cache
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\obj\Debug\net6.0\HarfAndKelime.AssemblyInfo.cs
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\obj\Debug\net6.0\HarfAndKelime.csproj.CoreCompileInputs.cache
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\obj\Debug\net6.0\HarfAndKelime.dll
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\obj\Debug\net6.0\refint\HarfAndKelime.dll
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\obj\Debug\net6.0\HarfAndKelime.pdb
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\obj\Debug\net6.0\HarfAndKelime.genruntimeconfig.cache
+C:\Users\Taner\Desktop\yazilim\example\C#\HarfAndKelime\obj\Debug\net6.0\ref\HarfAndKelime.dll
