@@ -1,0 +1,5 @@
+C:\Users\Taner\Desktop\yazilim\example\Sorular\C#\findfindMiddleAndSumOfNeighbors\obj\Debug\net6.0\findfindMiddleAndSumOfNeighbors.csproj.AssemblyReference.cache
+C:\Users\Taner\Desktop\yazilim\example\Sorular\C#\findfindMiddleAndSumOfNeighbors\obj\Debug\net6.0\findfindMiddleAndSumOfNeighbors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taner\Desktop\yazilim\example\Sorular\C#\findfindMiddleAndSumOfNeighbors\obj\Debug\net6.0\findfindMiddleAndSumOfNeighbors.AssemblyInfoInputs.cache
+C:\Users\Taner\Desktop\yazilim\example\Sorular\C#\findfindMiddleAndSumOfNeighbors\obj\Debug\net6.0\findfindMiddleAndSumOfNeighbors.AssemblyInfo.cs
+C:\Users\Taner\Desktop\yazilim\example\Sorular\C#\findfindMiddleAndSumOfNeighbors\obj\Debug\net6.0\findfindMiddleAndSumOfNeighbors.csproj.CoreCompileInputs.cache
